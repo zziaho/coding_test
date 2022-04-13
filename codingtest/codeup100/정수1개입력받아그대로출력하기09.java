@@ -1,6 +1,6 @@
 package codeup100;
 
-public class 정수1개입력받아그대로출력하기 {
+public class 정수1개입력받아그대로출력하기09 {
 
 	public static void main(String[] args) {
 
