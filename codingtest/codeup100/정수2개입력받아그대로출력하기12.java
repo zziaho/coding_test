@@ -9,7 +9,7 @@ public class 정수2개입력받아그대로출력하기12 {
 		int a, b;
 		a = 10;
 		b = 20;
-		System.out.printf("%d,%d", a,b); // printf 사용
+		System.out.printf("%d %d", a,b); // printf 사용
 		
 	}
 
