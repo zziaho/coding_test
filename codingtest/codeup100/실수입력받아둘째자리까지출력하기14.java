@@ -2,7 +2,7 @@ package codeup100;
 
 import java.util.Scanner;
 
-public class 실수입력받아둘째자리까지출력하기 {
+public class 실수입력받아둘째자리까지출력하기14 {
 
 	public static void main(String[] args) {
 
