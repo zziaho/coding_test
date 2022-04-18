@@ -2,7 +2,7 @@ package codeup100;
 
 import java.util.Scanner;
 
-public class 시간입력받아그대로출력하기 {
+public class 시간입력받아그대로출력하기18 {
 
 	public static void main(String[] args) {
 
