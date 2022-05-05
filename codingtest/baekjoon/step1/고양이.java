@@ -15,7 +15,8 @@ public class 고양이 {
 		System.out.println(" )  ( ')");
 		System.out.println("(  /  )");
 		System.out.println(" \\(__)|");
-		
+
+//		이스케이프 문자 "\" 사용
 	}
 
 }
