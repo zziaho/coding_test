@@ -1,6 +1,6 @@
 package baekjoon.step1;
 
-public class 고양이 {
+public class Cat {
 
 	public static void main(String[] args) {
 
