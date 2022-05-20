@@ -2,7 +2,7 @@ package baekjoon.step3;
 
 import java.util.Scanner;
 
-public class N {
+public class _05N {
 
 	public static void main(String[] args) {
 
@@ -11,6 +11,7 @@ public class N {
 		Scanner sc = new Scanner(System.in);
 		
 		int n = sc.nextInt();
+		
 		if(n > 100000 || n < 1) {
 			System.out.println("자연수 N은 100,000보다 작거나 같은 자연수입니다.");
 		} else {

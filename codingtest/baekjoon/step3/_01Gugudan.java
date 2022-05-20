@@ -2,7 +2,7 @@ package baekjoon.step3;
 
 import java.util.Scanner;
 
-public class Gugudan {
+public class _01Gugudan {
 
 	public static void main(String[] args) {
 
