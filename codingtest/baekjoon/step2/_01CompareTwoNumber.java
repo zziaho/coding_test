@@ -2,7 +2,7 @@ package baekjoon.step2;
 
 import java.util.Scanner;
 
-public class CompareTwoNumber {
+public class _01CompareTwoNumber {
 
 	public static void main(String[] args) {
 

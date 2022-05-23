@@ -2,7 +2,7 @@ package baekjoon.step2;
 
 import java.util.Scanner;
 
-public class ExamResult {
+public class _02ExamResult {
 
 	public static void main(String[] args) {
 
