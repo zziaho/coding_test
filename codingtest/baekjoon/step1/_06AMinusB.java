@@ -18,8 +18,6 @@ public class _06AMinusB {
 		
 		sc.close();
 		
-		
-
 	}
 
 }
