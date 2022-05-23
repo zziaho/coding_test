@@ -1,6 +1,6 @@
 package baekjoon.step1;
 
-public class Welovekriii {
+public class _02Welovekriii {
 
 	public static void main(String[] args) {
 

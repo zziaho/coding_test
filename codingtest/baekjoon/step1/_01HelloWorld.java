@@ -1,6 +1,6 @@
 package baekjoon.step1;
 
-public class HelloWorld {
+public class _01HelloWorld {
 
 	public static void main(String[] args) {
 
